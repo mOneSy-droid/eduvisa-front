@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "homeTitle": "Eduvisa — Kelajagingiz xorijdan boshlanadi | CHET ELDA TA'LIM",
+    "homeDescription": "O'zbekistondagi eng ishonchli ta'lim konsalting markazi. UK, USA, Canada, Australia universitetlariga qabul, viza va stipendiya yordami.",
+    "homeOgDescription": "Premium ta'lim konsalting markazi. 1200+ talaba, 50+ davlat, 95% qabul ko'rsatkichi.",
+    "americaTitle": "Amerika Universitetlari — Transfer Dasturi | Eduvisa",
+    "americaDescription": "1 yil Malayziya + 3 yil Amerika transfer dasturi orqali o'qish mumkin bo'lgan Amerika universitetlari ro'yxati."
+  },
+  "nav": {
+    "results": "Natijalar",
+    "services": "Xizmatlar",
+    "destinations": "Davlatlar",
+    "transfer": "Transfer",
+    "universities": "Universitetlar",
+    "map": "Manzil",
+    "contact": "Aloqa",
+    "consultation": "Konsultatsiya",
+    "getConsultation": "Konsultatsiya olish",
+    "tagline": "CHET ELDA TA'LIM"
+  },
+  "hero": {
+    "badge": "O'ZBEKISTONNING #1 TA'LIM KONSALTING MARKAZI",
+    "titleLine1": "Kelajagingiz",
+    "titleHighlight": "Xorijdan",
+    "titleSuffix": "Boshlanadi",
+    "subtitle": "O'zbekistonning eng ishonchli ta'lim konsalting markazi. Siz tanlagan universitetga biz olib boramiz — konsultatsiyadan vizagacha.",
+    "badge1": "1200+ Talaba",
+    "badge2": "150+ Hamkor universitet",
+    "badge3": "95% viza muvaffaqiyati",
+    "ctaPrimary": "Bepul Konsultatsiya",
+    "ctaSecondary": "Universitetlarni Ko'rish",
+    "ratingText": "1200+ muvaffaqiyatli talaba ishonadi",
+    "studentsImgAlt": "Xorijiy universitetlardagi talabalar",
+    "floatStudents": "Muvaffaqiyatli talabalar",
+    "floatCountries": "Davlatlar",
+    "floatPartners": "Hamkor universitetlar",
+    "floatVisa": "Viza muvaffaqiyati",
+    "scroll": "Scroll"
+  },
+  "stats": {
+    "students": "Muvaffaqiyatli talabalar",
+    "experience": "Tajriba",
+    "experienceSuffix": "+ yil",
+    "partners": "Hamkor universitetlar",
+    "countries": "Asosiy davlatlar"
+  },
+  "results": {
+    "eyebrow": "O'quvchilar natijalari",
+    "title": "Eduvisa Natijalari",
+    "subtitle": "Bizning o'quvchilarimiz dunyo bo'ylab yetakchi universitetlarga qabul qilindi",
+    "cta": "Hoziroq ariza topshiring"
+  },
+  "services": {
+    "eyebrow": "Xizmatlarimiz",
+    "title": "To'liq ta'lim yo'lboshchilik",
+    "subtitle": "Birinchi uchrashuvdan xorijdagi birinchi darsigacha — har bir bosqichda yoningizdamiz.",
+    "items": {
+      "consultation": {
+        "title": "Dastlabki Konsultatsiya",
+        "desc": "Mutaxassislarimiz bilan bepul uchrashuv — sizning maqsadingiz va imkoniyatlaringizni baholaymiz."
+      },
+      "university": {
+        "title": "Universitet Tanlash",
+        "desc": "Sizning sohangiz va byudjetingizga mos eng yaxshi universitetlarni tanlaymiz."
+      },
+      "documents": {
+        "title": "Hujjatlar Tayyorlash",
+        "desc": "Motivation letter, CV, tavsiyanomalardan tortib barcha ariza hujjatlarini professional darajada tayyorlaymiz."
+      },
+      "visa": {
+        "title": "Viza Yordam",
+        "desc": "Talabalar vizasi uchun to'liq qo'llab-quvvatlash — intervyudan tortib hujjatlargacha."
+      },
+      "scholarship": {
+        "title": "Stipendiya Qidirish",
+        "desc": "Sizga mos stipendiya dasturlarini topib, ariza topshirishda yo'l-yo'riq beramiz."
+      },
+      "housing": {
+        "title": "Turar Joy Topish",
+        "desc": "Yotoqxona yoki ijara uy — sizga mos turar joyni xorijda topib beramiz."
+      }
+    }
+  },
+  "destinations": {
+    "eyebrow": "Davlatlar",
+    "title": "O'qish davlatini tanlang",
+    "subtitle": "Dunyo bo'ylab eng nufuzli ta'lim yo'nalishlari — har bir davlat uchun to'liq ma'lumot.",
+    "tuitionLabel": "Yillik to'lov",
+    "visaLabel": "Viza muvaffaqiyati",
+    "visaBadge": "% viza"
+  },
+  "transfer": {
+    "badge": "Transfer Dasturi",
+    "titleLine1": "1 yil Malayziya —",
+    "titleHighlight": "dunyoning istalgan davlatiga",
+    "subtitle": "Hech qanday imtihonsiz xalqaro ta'lim oling. Universitet o'zi sizni tayyorlaydi va tanlagan davlatingizga olib boradi.",
+    "offerLabel": "Maxsus taklif — Hozir",
+    "perYear": "/yil",
+    "discountBadge": "54% chegirma",
+    "limitedSeats": "Cheklangan o'rinlar",
+    "year1Label": "1-YIL",
+    "year1Country": "🇲🇾 Malayziya",
+    "year1City": "Kuala Lumpur",
+    "documentBadge": "Hujjat topshiring",
+    "year1Title": "INTI International University",
+    "year1Desc": "Imtihonsiz qabul. Ingliz tili va akademik asoslarni mustahkamlash. IELTS & SAT tayyorgarligi — bepul.",
+    "year3Label": "3-YIL",
+    "chooseCountryTitle": "Davlatingizni tanlang",
+    "chooseCountryDesc": "Malayziyadagi 1 yillik ta'limdan keyin kamida IELTS 6 yoki 6.0+ natijasi bilan quyidagi universitetlarga transfer qilishingiz mumkin.",
+    "americaCardLabel": "TRANSFER",
+    "americaCardTitle": "Amerika",
+    "americaCardDesc": "Top universitetlarga transfer qilish, xalqaro diplom olish va AQShda karyerangizni boshlash imkoniyati.",
+    "americaCardButton": "Universitetlarni ko'rish",
+    "whyTitle": "Nima uchun bu dastur?",
+    "allMajorsTitle": "Barcha yo'nalishlar",
+    "statTop500": "Top dunyo reytingi",
+    "statDiscount": "Chegirma hozir",
+    "statContract": "Yillik kontrakt",
+    "applyButton": "Transfer dasturiga ariza topshirish",
+    "applyNote": "Bepul konsultatsiya · 24 soat ichida javob",
+    "benefits": [
+      "Malaysiada Hech qanday IELTS yoki SAT talab qilinmaydi Lekin Amerikaga otish uchun kamida IELTS 6 yoki 6+ bolishi kerak",
+      "Barcha yo'nalishlar mavjud (IT, Biznes, Tibbiyot va boshqalar)",
+      "INTI Universiteti o'zi IELTS & SAT ga bepul tayyorlaydi",
+      "Dunyoning top-500 universitetlaridan biri",
+      "1 yil Malayziya + 3 yil Amerika — to'liq diplom"
+    ],
+    "destinationCardSubtitle": "Universitetlarni ko'rish",
+    "programs": {
+      "computerScience": "Kompyuter fanlari",
+      "engineering": "Muhandislik",
+      "business": "Biznes",
+      "psychology": "Psixologiya",
+      "health": "Sog'liqni saqlash fanlari",
+      "biosciences": "Biofanlar",
+      "massComm": "Ommaviy kommunikatsiya",
+      "actuarial": "Aktuar fanlar"
+    }
+  },
+  "priceBanner": {
+    "badge": "Hoziroq ariza topshiring",
+    "titleLine1": "Eduvizaga onlayn ariza topshirish narxi",
+    "currency": "so'm",
+    "discountBadge": "−50% chegirma",
+    "limitedOffer": "Faqat hozir amal qiluvchi maxsus narx",
+    "description": "Universitetga qabul qilish, hujjatlarni rasmiylashtirish va to'liq konsalting xizmati shu narxga kiradi. Mutaxassislarimiz arizangizni qabul qilingunga qadar siz bilan birga ishlaydi.",
+    "button": "Hoziroq ariza topshirish"
+  },
+  "universities": {
+    "eyebrow": "Universitetlar",
+    "title": "Dunyodagi eng nufuzli universitetlar",
+    "subtitle": "Hamkor universitetlarimiz orasidan o'zingizga mosini tanlang, saqlang yoki solishtiring.",
+    "tabAll": "Barchasi",
+    "scholarshipBadge": "Stipendiya",
+    "tuitionLabel": "Yillik to'lov",
+    "applyButton": "Ariza topshirish",
+    "comparingText": "ta universitet solishtirilmoqda",
+    "clearButton": "Tozalash",
+    "selectPlaceholder": "Universitetni tanlang",
+    "selectDropdownHeader": "Universitetni tanlang",
+    "perYear": "/yil",
+    "contractBased": "Kontraktga qarab",
+    "grantSuffix": "grant",
+    "ieltsGrantFull": "IELTS 6+ → 100% grant"
+  },
+  "uploadField": {
+    "clickToUpload": "Fayl yuklash uchun bosing",
+    "maxSize": "Maks 10MB"
+  },
+  "applicationForm": {
+    "badge": "Ariza topshirish",
+    "defaultTitle": "Ariza topshirish",
+    "subtitle": "Barcha maydonlarni to'ldiring va hujjatlarni yuklang",
+    "docsProgress": "Hujjatlar yuklanishi",
+    "percentFilled": "to'ldirildi",
+    "section1Title": "Shaxsiy ma'lumotlar",
+    "fullName": "To'liq ism-familiya",
+    "fullNamePlaceholder": "Abdullayev Abdulla Abdullayevich",
+    "dob": "Tug'ilgan sana",
+    "phone": "Telefon raqam",
+    "phonePlaceholder": "+998 90 123 45 67",
+    "email": "Email manzil",
+    "emailPlaceholder": "example@email.com",
+    "selectedUniversity": "Tanlangan universitet",
+    "autoSelected": "Avtomatik tanlangan",
+    "faculty": "Kerakli fakultet / yo'nalish",
+    "facultyPlaceholder": "Masalan: Computer Science, Business Administration...",
+    "section2Title": "Kerakli hujjatlar",
+    "idCard": "ID karta (shaxsiy guvohnoma)",
+    "zagran": "Zagranpassport (xalqaro pasport)",
+    "parentPassport": "Ota-ona pasporti",
+    "certificateLabel": "Shahodatnoma",
+    "gradeSuffix": "-sinf",
+    "certificateFile": "-sinf shahodatnomasi",
+    "photo": "3×4 rasm (jpg yoki png)",
+    "langCertLabel": "Til sertifikati",
+    "langCertNo": "Certificate yoq",
+    "scorePlaceholderIelts": "Masalan: 6.5",
+    "scorePlaceholderCefr": "Masalan: B2",
+    "langCertFile": "sertifikat fayli",
+    "submitButton": "Arizani yuborish",
+    "successTitle": "Ariza yuborildi!",
+    "successDesc": "universitetiga arizangiz muvaffaqiyatli topshirildi. Tez orada mutaxassislarimiz siz bilan bog'lanadi.",
+    "backHome": "Bosh sahifaga qaytish",
+    "toastFillUniversity": "Iltimos, universitet nomini kiriting",
+    "toastFillAll": "Iltimos, barcha maydonlarni to'ldiring",
+    "toastUploadAll": "Iltimos, barcha hujjatlarni yuklang",
+    "toastSubmitSuccess": "Arizangiz muvaffaqiyatli yuborildi!",
+    "toastSubmitError": "Arizani yuborishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring.",
+    "fileLabels": {
+      "idCard": "ID karta",
+      "zagran": "Zagranpasport",
+      "parentPassport": "Ota-ona pasporti",
+      "certificate": "Attestat",
+      "photo": "Foto",
+      "langCert": "Til sertifikati"
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Nima uchun biz",
+    "title": "Sizning ishonchli yo'ldoshingiz",
+    "subtitle": "6 yildan ortiq tajribaga ega jamoamiz minglab talabalarning orzularini ro'yobga chiqarishga yordam berdi.",
+    "acceptanceRate": "Qabul ko'rsatkichi",
+    "scholarshipWon": "Stipendiya yutilgan",
+    "items": {
+      "certified": {
+        "title": "Sertifikatlangan mutaxassislar",
+        "desc": "Xalqaro ta'lim sohasida sertifikat olgan jamoa."
+      },
+      "transparent": {
+        "title": "Shaffof narxlar",
+        "desc": "Yashirin to'lovlar yo'q — hammasi avvaldan kelishiladi."
+      },
+      "individual": {
+        "title": "Individual yondashuv",
+        "desc": "Har bir talaba uchun shaxsiy reja tuziladi."
+      },
+      "support": {
+        "title": "24/7 qo'llab-quvvatlash",
+        "desc": "Xorijga ketganingizdan keyin ham yoningizdamiz."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Jarayon",
+    "title": "5 bosqichda xorijiy universitetga",
+    "subtitle": "Aniq va shaffof jarayon — siz tushunadigan tilda.",
+    "steps": {
+      "step1": {
+        "title": "Konsultatsiya",
+        "desc": "Bepul birinchi uchrashuv va imkoniyatlarni baholash."
+      },
+      "step2": {
+        "title": "Universitet Tanlash",
+        "desc": "Sizga eng mos universitet va dasturlar ro'yxati."
+      },
+      "step3": {
+        "title": "Hujjatlar Tayyorlash",
+        "desc": "Barcha ariza hujjatlarini professional tayyorlash."
+      },
+      "step4": {
+        "title": "Ariza Topshirish",
+        "desc": "Universitetlarga arizalarni topshirish va kuzatib borish."
+      },
+      "step5": {
+        "title": "Qabul va Viza",
+        "desc": "Qabul xati olish va viza jarayonida to'liq yordam."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Talabalar fikri",
+    "title": "Bizning bitiruvchilarimiz",
+    "subtitle": "Real talabalar — real natijalar.",
+    "prev": "Oldingi",
+    "next": "Keyingi",
+    "items": {
+      "t1": {
+        "quote": "Eduvisa jamoasi tufayli ikkilangan paytda aniq yo'nalish topdim. Hujjatlar tayyorlashda har bir tafsilotga e'tibor berildi va men orzudagi universitetga qabul qilindim."
+      },
+      "t2": {
+        "quote": "Stipendiya qidirish va viza jarayonida professional yordam oldim. Hozir Kanadada o'qiyapman va Eduvisaga umrim davomida minnatdorman."
+      },
+      "t3": {
+        "quote": "Birinchi konsultatsiyadan boshlab har bir bosqichda yonimda bo'lishdi. Mutaxassislar juda professional — tavsiya qilaman!"
+      }
+    }
+  },
+  "tools": {
+    "eyebrow": "Foydali vositalar",
+    "title": "O'z imkoniyatlaringizni baholang",
+    "subtitle": "Bir necha soniyada xarajatlar va stipendiya imkoniyatlarini hisoblang.",
+    "calc": {
+      "title": "Xarajat kalkulyatori",
+      "subtitle": "Yillik o'qish xarajatlarini hisoblang",
+      "country": "Davlat",
+      "tuition": "O'qish to'lovi",
+      "living": "Yashash xarajati",
+      "estimateLabel": "Taxminiy yillik xarajat —"
+    },
+    "scholarship": {
+      "title": "Stipendiya tekshiruvi",
+      "subtitle": "Sizga mos dasturlarni topamiz",
+      "gpa": "GPA",
+      "ielts": "IELTS",
+      "budget": "Byudjet $",
+      "emptyState": "Parametrlarni o'zgartiring — sizga mos imkoniyatlar paydo bo'ladi.",
+      "names": {
+        "chevening": "Chevening (UK)",
+        "ausAwards": "Australia Awards",
+        "ireland": "Government of Ireland",
+        "daad": "DAAD (Germany)",
+        "fulbright": "Fulbright (USA)"
+      },
+      "match": {
+        "full": "To'liq stipendiya",
+        "partial": "Qisman stipendiya",
+        "free": "Tekin ta'lim"
+      }
+    }
+  },
+  "quiz": {
+    "title": "2 daqiqalik tavsiya testi",
+    "subtitle": "Sizga mos universitetni aniqlang",
+    "back": "Orqaga",
+    "resultReady": "Natija tayyor",
+    "resultDesc": "Sizning javoblaringizga asoslanib eng yaxshi mos kelishi.",
+    "ctaConsultation": "Bepul konsultatsiya",
+    "retry": "Qayta urinish",
+    "questions": {
+      "country": {
+        "q": "Qaysi davlatda o'qishni xohlaysiz?",
+        "opts": [
+          "UK",
+          "USA",
+          "Canada",
+          "Australia"
+        ]
+      },
+      "budget": {
+        "q": "Yillik byudjetingiz qancha?",
+        "opts": [
+          "$15-25K",
+          "$25-40K",
+          "$40-60K",
+          "$60K+"
+        ]
+      },
+      "degree": {
+        "q": "Daraja darajasi?",
+        "opts": [
+          "Bakalavr",
+          "Magistr",
+          "PhD",
+          "Til kursi"
+        ]
+      },
+      "ielts": {
+        "q": "IELTS balingiz?",
+        "opts": [
+          "5.5-6.0",
+          "6.0-6.5",
+          "6.5-7.5",
+          "7.5+"
+        ]
+      }
+    },
+    "recommendations": {
+      "UK": {
+        "u": "University of Manchester",
+        "m": "Top-30 dunyo reytingida"
+      },
+      "USA": {
+        "u": "Boston University",
+        "m": "Stipendiya imkoniyati bilan"
+      },
+      "Canada": {
+        "u": "University of Toronto",
+        "m": "Eng arzon Top-25"
+      },
+      "Australia": {
+        "u": "Monash University",
+        "m": "Yuqori viza muvaffaqiyati"
+      }
+    }
+  },
+  "team": {
+    "eyebrow": "Jamoamiz",
+    "title": "Sizning ta'lim yo'lboshchilaringiz",
+    "subtitle": "Tajribali va sertifikatlangan mutaxassislar jamoasi.",
+    "members": {
+      "m1": {
+        "role": "Bosh konsultant",
+        "bio": "8 yillik tajriba. UK & Europe ta'lim mutaxassisi."
+      },
+      "m2": {
+        "role": "Viza mutaxassisi",
+        "bio": "Talabalar vizasi bo'yicha 1200+ muvaffaqiyatli holatlar."
+      },
+      "m3": {
+        "role": "USA & Canada bo'limi",
+        "bio": "Ivy League va Top-50 universitetlar bo'yicha mutaxassis."
+      },
+      "m4": {
+        "role": "Stipendiya yo'naltiruvchisi",
+        "bio": "2M+ dollar stipendiya yutilishida yordam bergan."
+      }
+    }
+  },
+  "partners": {
+    "eyebrow": "Manzil",
+    "title": "Bizni toping",
+    "subtitle": "Toshkent markazida qulay joylashgan ofisimizga tashrif buyuring.",
+    "viewOnMap": "Xaritada ko'rish",
+    "address": "Manzil",
+    "addressValue": "Toshkent, Afrosiyob ko'chasi 12/1",
+    "phone": "Telefon",
+    "email": "Email",
+    "telegram": "Telegram",
+    "telegramDesc": "Eduvisa - tezkor javob"
+  },
+  "faq": {
+    "eyebrow": "Savollar",
+    "title": "Tez-tez so'raladigan savollar",
+    "items": {
+      "q1": {
+        "q": "Konsultatsiya bepulmi?",
+        "a": "Ha, birinchi konsultatsiya butunlay bepul. Siz hech qanday majburiyat olmasdan barcha savollaringizga javob olasiz."
+      },
+      "q2": {
+        "q": "Qancha vaqtda jarayon yakunlanadi?",
+        "a": "Odatda 3-6 oy davom etadi — universitetga ariza topshirishdan tortib viza olishgacha."
+      },
+      "q3": {
+        "q": "Ingliz tili sertifikati kerakmi?",
+        "a": "Ko'p universitetlarda IELTS yoki TOEFL talab qilinadi. Biz orqali topshirgan talabalar uchun emas."
+      },
+      "q4": {
+        "q": "Stipendiya olish imkoniyati bormi?",
+        "a": "Albatta. Bizning talabalarimiz har yili 2M+ dollar stipendiya yutib oladi."
+      },
+      "q5": {
+        "q": "Qaysi davlatlar bo'yicha ishlaysiz?",
+        "a": "UK, USA, Canada, Australia, New Zealand, Ireland va boshqa 30+ davlat."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Aloqa",
+    "title": "Keling, suhbatlashamiz",
+    "subtitle": "Bepul konsultatsiya uchun arizangizni qoldiring — 24 soat ichida siz bilan bog'lanamiz.",
+    "address": "Manzil",
+    "addressValue": "Toshkent, Afrosiyob kochasi 12/1",
+    "phone": "Telefon",
+    "phoneValue": "+998 88 883 11 99 , +998 95 077 92 20",
+    "email": "Email",
+    "workingHours": "Ish vaqti",
+    "workingHoursValue": "Du-Sha: 9:00 — 19:00 · Yak: dam",
+    "stepIndicator": "bosqich",
+    "step1NameLabel": "Ismingiz",
+    "step1NamePlaceholder": "To'liq ismingiz",
+    "step1PhoneLabel": "Telefon",
+    "step1PhonePlaceholder": "+998 __ ___ __ __",
+    "step2CountryLabel": "Qiziqtirgan davlat",
+    "step3DateLabel": "Konsultatsiya sanasi",
+    "step3MessageLabel": "Xabar (ixtiyoriy)",
+    "step3MessagePlaceholder": "Sizga qanday yordam bera olamiz?",
+    "continueButton": "Davom etish",
+    "backButton": "Orqaga",
+    "submitButton": "Bepul konsultatsiya olish",
+    "submitting": "Yuborilmoqda...",
+    "thankYou": "Rahmat,",
+    "successDesc1": "Murojaatingiz qabul qilindi. Mutaxassisimiz 24 soat ichida",
+    "successDesc2": "sanasidagi konsultatsiya bo'yicha bog'lanadi.",
+    "newRequest": "Yangi murojaat",
+    "countries": {
+      "uk": "United Kingdom",
+      "usa": "USA",
+      "canada": "Canada",
+      "australia": "Australia",
+      "newZealand": "New Zealand",
+      "ireland": "Ireland"
+    },
+    "toastNameRequired": "Iltimos, to'liq ismingizni kiriting",
+    "toastPhoneRequired": "Telefon raqamingizni to'g'ri kiriting",
+    "toastCountryRequired": "Davlatni tanlang",
+    "toastDateRequired": "Konsultatsiya sanasini tanlang",
+    "toastLeadError": "Lead yaratishda xatolik yuz berdi",
+    "toastSuccess": "Murojaatingiz qabul qilindi! 24 soat ichida bog'lanamiz.",
+    "toastGenericError": "Xatolik yuz berdi. Iltimos, qaytadan urinib ko'ring.",
+    "defaultService": "Bepul konsultatsiya",
+    "defaultNotes": "Bepul konsultatsiya band qilindi"
+  },
+  "footer": {
+    "tagline": "Kelajagingiz xorijdan boshlanadi. O'zbekistondagi premium ta'lim konsalting markazi.",
+    "quickLinks": "Tezkor havolalar",
+    "contact": "Aloqa",
+    "address": "Toshkent, Afrosiyob kochasi 12/1",
+    "phone": "+998 88 883 11 99",
+    "email": "eduvisaconsulting@gmail.com",
+    "hours": "Du-Sha: 9:00 — 19:00",
+    "rightsReserved": "Barcha huquqlar himoyalangan."
+  },
+  "floatingActions": {
+    "bookConsultation": "Konsultatsiya band qilish",
+    "scrollTop": "Yuqoriga"
+  },
+  "america": {
+    "backToTransfer": "Transfer dasturiga qaytish",
+    "badge": "Transfer Dasturi — 2–4-yil",
+    "titlePrefix": "Amerika",
+    "titleHighlight": "Universitetlari",
+    "subtitle": "1 yil Malayziyada tayyorgarlikdan so'ng transfer qilishingiz mumkin bo'lgan Amerika universitetlari ro'yxati.",
+    "tabAll": "Barchasi",
+    "emptyTitle": "Universitetlar tez orada qo'shiladi",
+    "emptyDesc": "Amerika universitetlari ro'yxati hozircha tayyorlanmoqda. Batafsil ma'lumot uchun konsultatsiyaga yoziling.",
+    "emptyCta": "Bepul konsultatsiya",
+    "universityGroupLabel": "Amerika universitetlari",
+    "majors": {
+      "Actuarial Science": "Aktuar fanlar",
+      "Biosciences": "Biofanlar",
+      "Business": "Biznes",
+      "Computer Science": "Kompyuter fanlari",
+      "Engineering": "Muhandislik",
+      "Health & Applied Sciences": "Sog'liqni saqlash fanlari",
+      "Mass Communication": "Ommaviy kommunikatsiya",
+      "Psychology": "Psixologiya"
+    }
+  },
+  "common": {
+    "languageName": "O'zbek"
+  }
+}

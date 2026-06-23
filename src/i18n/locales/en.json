@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "homeTitle": "Eduvisa — Your Future Starts Abroad | STUDY ABROAD",
+    "homeDescription": "The most trusted education consulting center in Uzbekistan. Admission, visa, and scholarship support for UK, USA, Canada, and Australia universities.",
+    "homeOgDescription": "Premium education consulting center. 1200+ students, 50+ countries, 95% acceptance rate.",
+    "americaTitle": "American Universities — Transfer Program | Eduvisa",
+    "americaDescription": "List of American universities available through the transfer program: 1 year in Malaysia + 3 years in the USA."
+  },
+  "nav": {
+    "results": "Results",
+    "services": "Services",
+    "destinations": "Countries",
+    "transfer": "Transfer",
+    "universities": "Universities",
+    "map": "Location",
+    "contact": "Contact",
+    "consultation": "Consultation",
+    "getConsultation": "Get a consultation",
+    "tagline": "STUDY ABROAD"
+  },
+  "hero": {
+    "badge": "UZBEKISTAN'S #1 EDUCATION CONSULTING CENTER",
+    "titleLine1": "Your Future",
+    "titleHighlight": "Starts",
+    "titleSuffix": "Abroad",
+    "subtitle": "Uzbekistan's most trusted education consulting center. We'll guide you to the university of your choice — from consultation to visa.",
+    "badge1": "1200+ Students",
+    "badge2": "150+ Partner universities",
+    "badge3": "95% visa success rate",
+    "ctaPrimary": "Free Consultation",
+    "ctaSecondary": "View Universities",
+    "ratingText": "Trusted by 1200+ successful students",
+    "studentsImgAlt": "Students at universities abroad",
+    "floatStudents": "Successful students",
+    "floatCountries": "Countries",
+    "floatPartners": "Partner universities",
+    "floatVisa": "Visa success rate",
+    "scroll": "Scroll"
+  },
+  "stats": {
+    "students": "Successful students",
+    "experience": "Experience",
+    "experienceSuffix": "+ years",
+    "partners": "Partner universities",
+    "countries": "Core countries"
+  },
+  "results": {
+    "eyebrow": "Student results",
+    "title": "Eduvisa Results",
+    "subtitle": "Our students have been accepted to leading universities around the world",
+    "cta": "Apply now"
+  },
+  "services": {
+    "eyebrow": "Our services",
+    "title": "Complete education guidance",
+    "subtitle": "From the first meeting to your first class abroad — we're with you at every step.",
+    "items": {
+      "consultation": {
+        "title": "Initial Consultation",
+        "desc": "A free meeting with our experts — we evaluate your goals and opportunities."
+      },
+      "university": {
+        "title": "University Selection",
+        "desc": "We pick the best universities matching your field and budget."
+      },
+      "documents": {
+        "title": "Document Preparation",
+        "desc": "We professionally prepare all application documents — from motivation letters to CVs and recommendations."
+      },
+      "visa": {
+        "title": "Visa Assistance",
+        "desc": "Full support for student visas — from interview prep to documentation."
+      },
+      "scholarship": {
+        "title": "Scholarship Search",
+        "desc": "We find scholarship programs that fit you and guide you through the application."
+      },
+      "housing": {
+        "title": "Accommodation",
+        "desc": "Dormitory or rental housing — we'll find the right place for you abroad."
+      }
+    }
+  },
+  "destinations": {
+    "eyebrow": "Countries",
+    "title": "Choose your study destination",
+    "subtitle": "The world's most prestigious education destinations — full information for every country.",
+    "tuitionLabel": "Annual tuition",
+    "visaLabel": "Visa success rate",
+    "visaBadge": "% visa"
+  },
+  "transfer": {
+    "badge": "Transfer Program",
+    "titleLine1": "1 Year in Malaysia —",
+    "titleHighlight": "to any country in the world",
+    "subtitle": "Get an international education with no entrance exams. The university itself prepares you and transfers you to the country of your choice.",
+    "offerLabel": "Special offer — now",
+    "perYear": "/year",
+    "discountBadge": "54% off",
+    "limitedSeats": "Limited seats",
+    "year1Label": "YEAR 1",
+    "year1Country": "🇲🇾 Malaysia",
+    "year1City": "Kuala Lumpur",
+    "documentBadge": "Submit documents",
+    "year1Title": "INTI International University",
+    "year1Desc": "Admission with no entrance exams. Strengthening English and academic foundations. Free IELTS & SAT prep.",
+    "year3Label": "YEAR 3",
+    "chooseCountryTitle": "Choose your country",
+    "chooseCountryDesc": "After 1 year of study in Malaysia, with a score of at least IELTS 6 or 6.0+, you can transfer to the following universities.",
+    "americaCardLabel": "TRANSFER",
+    "americaCardTitle": "America",
+    "americaCardDesc": "The opportunity to transfer to top universities, earn an international diploma, and start your career in the USA.",
+    "americaCardButton": "View universities",
+    "whyTitle": "Why this program?",
+    "allMajorsTitle": "All majors",
+    "statTop500": "Top 500 world ranking",
+    "statDiscount": "Current discount",
+    "statContract": "Annual contract",
+    "applyButton": "Apply for the transfer program",
+    "applyNote": "Free consultation · Response within 24 hours",
+    "benefits": [
+      "No IELTS or SAT required in Malaysia, but at least IELTS 6 or higher is required to transfer to America",
+      "All majors available (IT, Business, Medicine, and more)",
+      "INTI University provides free IELTS & SAT prep",
+      "One of the world's top-500 universities",
+      "1 year in Malaysia + 3 years in America — full diploma"
+    ],
+    "destinationCardSubtitle": "View universities",
+    "programs": {
+      "computerScience": "Computer Science",
+      "engineering": "Engineering",
+      "business": "Business",
+      "psychology": "Psychology",
+      "health": "Health & Applied Sciences",
+      "biosciences": "Biosciences",
+      "massComm": "Mass Communication",
+      "actuarial": "Actuarial Science"
+    }
+  },
+  "priceBanner": {
+    "badge": "Apply right now",
+    "titleLine1": "Online application price with Eduvisa",
+    "currency": "UZS",
+    "discountBadge": "−50% off",
+    "limitedOffer": "Special price available now only",
+    "description": "This price covers full consulting support — document processing and guidance all the way through university admission. Our specialists work with you at every step.",
+    "button": "Apply now"
+  },
+  "universities": {
+    "eyebrow": "Universities",
+    "title": "The world's most prestigious universities",
+    "subtitle": "Choose, save, or compare options among our partner universities.",
+    "tabAll": "All",
+    "scholarshipBadge": "Scholarship",
+    "tuitionLabel": "Annual tuition",
+    "applyButton": "Apply",
+    "comparingText": "universities being compared",
+    "clearButton": "Clear",
+    "selectPlaceholder": "Select a university",
+    "selectDropdownHeader": "Select a university",
+    "perYear": "/year",
+    "contractBased": "Contract-based",
+    "grantSuffix": "grant",
+    "ieltsGrantFull": "IELTS 6+ → 100% grant"
+  },
+  "uploadField": {
+    "clickToUpload": "Click to upload a file",
+    "maxSize": "Max 10MB"
+  },
+  "applicationForm": {
+    "badge": "Application",
+    "defaultTitle": "Apply",
+    "subtitle": "Fill in all fields and upload your documents",
+    "docsProgress": "Document upload",
+    "percentFilled": "completed",
+    "section1Title": "Personal information",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Abdullayev Abdulla Abdullayevich",
+    "dob": "Date of birth",
+    "phone": "Phone number",
+    "phonePlaceholder": "+998 90 123 45 67",
+    "email": "Email address",
+    "emailPlaceholder": "example@email.com",
+    "selectedUniversity": "Selected university",
+    "autoSelected": "Auto-selected",
+    "faculty": "Desired faculty / major",
+    "facultyPlaceholder": "E.g.: Computer Science, Business Administration...",
+    "section2Title": "Required documents",
+    "idCard": "ID card",
+    "zagran": "International passport",
+    "parentPassport": "Parent's passport",
+    "certificateLabel": "School certificate",
+    "gradeSuffix": "th grade",
+    "certificateFile": "th grade certificate",
+    "photo": "3×4 photo (jpg or png)",
+    "langCertLabel": "Language certificate",
+    "langCertNo": "No certificate",
+    "scorePlaceholderIelts": "E.g.: 6.5",
+    "scorePlaceholderCefr": "E.g.: B2",
+    "langCertFile": "certificate file",
+    "submitButton": "Submit application",
+    "successTitle": "Application submitted!",
+    "successDesc": "Your application has been successfully submitted to the university. Our specialists will contact you shortly.",
+    "backHome": "Back to homepage",
+    "toastFillUniversity": "Please enter the university name",
+    "toastFillAll": "Please fill in all fields",
+    "toastUploadAll": "Please upload all documents",
+    "toastSubmitSuccess": "Your application has been submitted successfully!",
+    "toastSubmitError": "Something went wrong while submitting your application. Please try again.",
+    "fileLabels": {
+      "idCard": "ID card",
+      "zagran": "International passport",
+      "parentPassport": "Parent's passport",
+      "certificate": "Certificate",
+      "photo": "Photo",
+      "langCert": "Language certificate"
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Why us",
+    "title": "Your trusted partner",
+    "subtitle": "Our team, with over 6 years of experience, has helped thousands of students turn their dreams into reality.",
+    "acceptanceRate": "Acceptance rate",
+    "scholarshipWon": "Scholarships won",
+    "items": {
+      "certified": {
+        "title": "Certified specialists",
+        "desc": "A team certified in international education."
+      },
+      "transparent": {
+        "title": "Transparent pricing",
+        "desc": "No hidden fees — everything is agreed upon in advance."
+      },
+      "individual": {
+        "title": "Individual approach",
+        "desc": "A personal plan is created for every student."
+      },
+      "support": {
+        "title": "24/7 support",
+        "desc": "We're with you even after you've moved abroad."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "5 steps to a university abroad",
+    "subtitle": "A clear and transparent process — in a language you understand.",
+    "steps": {
+      "step1": {
+        "title": "Consultation",
+        "desc": "Free first meeting and evaluation of opportunities."
+      },
+      "step2": {
+        "title": "University Selection",
+        "desc": "A list of the best-fitting universities and programs for you."
+      },
+      "step3": {
+        "title": "Document Preparation",
+        "desc": "Professional preparation of all application documents."
+      },
+      "step4": {
+        "title": "Application Submission",
+        "desc": "Submitting applications to universities and tracking progress."
+      },
+      "step5": {
+        "title": "Admission & Visa",
+        "desc": "Receiving the acceptance letter and full support through the visa process."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Student voices",
+    "title": "Our graduates",
+    "subtitle": "Real students — real results.",
+    "prev": "Previous",
+    "next": "Next",
+    "items": {
+      "t1": {
+        "quote": "Thanks to the Eduvisa team, I found clear direction at a moment of doubt. Every detail was handled carefully in preparing my documents, and I was accepted to my dream university."
+      },
+      "t2": {
+        "quote": "I received professional help with the scholarship search and visa process. I'm now studying in Canada and will be grateful to Eduvisa for life."
+      },
+      "t3": {
+        "quote": "From the first consultation, they were with me at every step. The specialists are highly professional — I recommend them!"
+      }
+    }
+  },
+  "tools": {
+    "eyebrow": "Useful tools",
+    "title": "Assess your opportunities",
+    "subtitle": "Calculate expenses and scholarship opportunities in seconds.",
+    "calc": {
+      "title": "Cost calculator",
+      "subtitle": "Calculate your annual study expenses",
+      "country": "Country",
+      "tuition": "Tuition fee",
+      "living": "Living expenses",
+      "estimateLabel": "Estimated annual cost —"
+    },
+    "scholarship": {
+      "title": "Scholarship checker",
+      "subtitle": "We'll find programs that fit you",
+      "gpa": "GPA",
+      "ielts": "IELTS",
+      "budget": "Budget $",
+      "emptyState": "Adjust the parameters — matching opportunities will appear.",
+      "names": {
+        "chevening": "Chevening (UK)",
+        "ausAwards": "Australia Awards",
+        "ireland": "Government of Ireland",
+        "daad": "DAAD (Germany)",
+        "fulbright": "Fulbright (USA)"
+      },
+      "match": {
+        "full": "Full scholarship",
+        "partial": "Partial scholarship",
+        "free": "Free education"
+      }
+    }
+  },
+  "quiz": {
+    "title": "2-minute recommendation quiz",
+    "subtitle": "Find the university that fits you",
+    "back": "Back",
+    "resultReady": "Result ready",
+    "resultDesc": "The best match based on your answers.",
+    "ctaConsultation": "Free consultation",
+    "retry": "Try again",
+    "questions": {
+      "country": {
+        "q": "Which country would you like to study in?",
+        "opts": [
+          "UK",
+          "USA",
+          "Canada",
+          "Australia"
+        ]
+      },
+      "budget": {
+        "q": "What's your annual budget?",
+        "opts": [
+          "$15-25K",
+          "$25-40K",
+          "$40-60K",
+          "$60K+"
+        ]
+      },
+      "degree": {
+        "q": "Degree level?",
+        "opts": [
+          "Bachelor's",
+          "Master's",
+          "PhD",
+          "Language course"
+        ]
+      },
+      "ielts": {
+        "q": "Your IELTS score?",
+        "opts": [
+          "5.5-6.0",
+          "6.0-6.5",
+          "6.5-7.5",
+          "7.5+"
+        ]
+      }
+    },
+    "recommendations": {
+      "UK": {
+        "u": "University of Manchester",
+        "m": "Ranked in the world's top 30"
+      },
+      "USA": {
+        "u": "Boston University",
+        "m": "With scholarship opportunities"
+      },
+      "Canada": {
+        "u": "University of Toronto",
+        "m": "Most affordable in the top 25"
+      },
+      "Australia": {
+        "u": "Monash University",
+        "m": "High visa success rate"
+      }
+    }
+  },
+  "team": {
+    "eyebrow": "Our team",
+    "title": "Your education guides",
+    "subtitle": "A team of experienced, certified specialists.",
+    "members": {
+      "m1": {
+        "role": "Chief consultant",
+        "bio": "8 years of experience. Specialist in UK & European education."
+      },
+      "m2": {
+        "role": "Visa specialist",
+        "bio": "1200+ successful student visa cases."
+      },
+      "m3": {
+        "role": "USA & Canada department",
+        "bio": "Specialist in Ivy League and top-50 universities."
+      },
+      "m4": {
+        "role": "Scholarship advisor",
+        "bio": "Helped secure over $2M in scholarships."
+      }
+    }
+  },
+  "partners": {
+    "eyebrow": "Location",
+    "title": "Find us",
+    "subtitle": "Visit our office, conveniently located in the center of Tashkent.",
+    "viewOnMap": "View on map",
+    "address": "Address",
+    "addressValue": "Tashkent, Afrosiyob Street 12/1",
+    "phone": "Phone",
+    "email": "Email",
+    "telegram": "Telegram",
+    "telegramDesc": "Eduvisa - quick response"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Frequently asked questions",
+    "items": {
+      "q1": {
+        "q": "Is the consultation free?",
+        "a": "Yes, the first consultation is completely free. You'll get answers to all your questions with no obligation."
+      },
+      "q2": {
+        "q": "How long does the process take?",
+        "a": "It usually takes 3-6 months — from submitting your university application to receiving your visa."
+      },
+      "q3": {
+        "q": "Do I need an English certificate?",
+        "a": "Many universities require IELTS or TOEFL. Not for students applying through us."
+      },
+      "q4": {
+        "q": "Is there a chance to get a scholarship?",
+        "a": "Absolutely. Our students win over $2M in scholarships every year."
+      },
+      "q5": {
+        "q": "Which countries do you work with?",
+        "a": "UK, USA, Canada, Australia, New Zealand, Ireland, and 30+ other countries."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk",
+    "subtitle": "Leave your request for a free consultation — we'll contact you within 24 hours.",
+    "address": "Address",
+    "addressValue": "Tashkent, Afrosiyob Street 12/1",
+    "phone": "Phone",
+    "phoneValue": "+998 88 88 311 99, +998 95 077 92 20",
+    "email": "Email",
+    "workingHours": "Working hours",
+    "workingHoursValue": "Mon-Sat: 9:00 AM — 7:00 PM · Sun: closed",
+    "stepIndicator": "step",
+    "step1NameLabel": "Your name",
+    "step1NamePlaceholder": "Your full name",
+    "step1PhoneLabel": "Phone",
+    "step1PhonePlaceholder": "+998 __ ___ __ __",
+    "step2CountryLabel": "Country of interest",
+    "step3DateLabel": "Consultation date",
+    "step3MessageLabel": "Message (optional)",
+    "step3MessagePlaceholder": "How can we help you?",
+    "continueButton": "Continue",
+    "backButton": "Back",
+    "submitButton": "Get a free consultation",
+    "submitting": "Submitting...",
+    "thankYou": "Thank you,",
+    "successDesc1": "Your request has been received. Our specialist will contact you within 24 hours regarding the consultation on",
+    "successDesc2": "",
+    "newRequest": "New request",
+    "countries": {
+      "uk": "United Kingdom",
+      "usa": "USA",
+      "canada": "Canada",
+      "australia": "Australia",
+      "newZealand": "New Zealand",
+      "ireland": "Ireland"
+    },
+    "toastNameRequired": "Please enter your full name",
+    "toastPhoneRequired": "Please enter a valid phone number",
+    "toastCountryRequired": "Please select a country",
+    "toastDateRequired": "Please select a consultation date",
+    "toastLeadError": "An error occurred while creating your request",
+    "toastSuccess": "Your request has been received! We'll contact you within 24 hours.",
+    "toastGenericError": "An error occurred. Please try again.",
+    "defaultService": "Free consultation",
+    "defaultNotes": "Free consultation booked"
+  },
+  "footer": {
+    "tagline": "Your future starts abroad. A premium education consulting center in Uzbekistan.",
+    "quickLinks": "Quick links",
+    "contact": "Contact",
+    "address": "Tashkent ,  Afrosiyob Street 12/1 ",
+    "phone": "+998 88 883 11 99",
+    "email": "eduvisaconsult@gmail.com",
+    "hours": "Mon-Sat: 9:00 AM — 7:00 PM",
+    "rightsReserved": "Al0l rights reserved."
+  },
+  "floatingActions": {
+    "bookConsultation": "Book a consultation",
+    "scrollTop": "Scroll up"
+  },
+  "america": {
+    "backToTransfer": "Back to transfer program",
+    "badge": "Transfer Program — Year 3 ",
+    "titlePrefix": "American",
+    "titleHighlight": "Universities",
+    "subtitle": "List of American universities you can transfer to after 1 year of preparation in Malaysia.",
+    "tabAll": "All",
+    "emptyTitle": "Universities coming soon",
+    "emptyDesc": "The list of American universities is still being prepared. Sign up for a consultation for detailed information.",
+    "emptyCta": "Free consultation",
+    "universityGroupLabel": "American universities",
+    "majors": {
+      "Actuarial Science": "Actuarial Science",
+      "Biosciences": "Biosciences",
+      "Business": "Business",
+      "Computer Science": "Computer Science",
+      "Engineering": "Engineering",
+      "Health & Applied Sciences": "Health & Applied Sciences",
+      "Mass Communication": "Mass Communication",
+      "Psychology": "Psychology"
+    }
+  },
+  "common": {
+    "languageName": "English"
+  }
+}
