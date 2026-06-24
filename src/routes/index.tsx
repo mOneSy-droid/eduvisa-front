@@ -341,7 +341,7 @@ function Hero() {
 
         <div className="relative" style={px(-0.05)}>
           <div className="relative aspect-[4/5] rounded-[28px] overflow-hidden shadow-[0_40px_100px_-30px_rgba(15,27,42,0.35)]">
-            <img src="/public/students.png" alt={t("hero.studentsImgAlt")} width={1024} height={1280} className="h-full w-full object-cover" />
+            <img src="/students.png" alt={t("hero.studentsImgAlt")} width={1024} height={1280} className="h-full w-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-[#0D1B2A]/30 via-transparent to-transparent" />
           </div>
           <div className="absolute -left-4 sm:-left-10 top-8 px-5 py-4 rounded-2xl glass-card animate-float">
